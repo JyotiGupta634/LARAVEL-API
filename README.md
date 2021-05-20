@@ -1,4 +1,4 @@
-#This is Demo app for Laravel API
+This is Demo app for Laravel API
 Sending verification after user registration. 
 before start open localhost/phpmyadmin on your 
 browser and update your user table. Add otp_code 
